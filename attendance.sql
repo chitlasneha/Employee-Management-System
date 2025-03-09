@@ -1,0 +1,22 @@
+-- Inserting Data into Attendance Table
+INSERT INTO Attendance (employee_id, attendance_date, status) VALUES
+(1, '2024-02-01', 'Present'),
+(2, '2024-02-01', 'Absent'),
+(3, '2024-02-01', 'Present'),
+(4, '2024-02-01', 'Leave'),
+(5, '2024-02-01', 'Present'),
+(6, '2024-02-01', 'Present'),
+(7, '2024-02-01', 'Present'),
+(8, '2024-02-01', 'Absent'),
+(9, '2024-02-01', 'Present'),
+(10, '2024-02-01', 'Leave'),
+(1, '2024-02-02', 'Present'),
+(2, '2024-02-02', 'Present'),
+(3, '2024-02-02', 'Absent'),
+(4, '2024-02-02', 'Present'),
+(5, '2024-02-02', 'Leave'),
+(6, '2024-02-02', 'Absent'),
+(7, '2024-02-02', 'Present'),
+(8, '2024-02-02', 'Leave'),
+(9, '2024-02-02', 'Present'),
+(10, '2024-02-02', 'Absent');
